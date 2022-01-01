@@ -5,7 +5,6 @@
 # Minimal One Page
 > Clean and Minimalistic One Page Template.
 
-this open source project was made for studies. <br />
 Be sure to send your feedback.
 
 ## Technology stack

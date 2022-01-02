@@ -10,7 +10,11 @@ export const Container = styled.div`
 
 export const Area = styled.div`
     margin:auto;
-    max-width:1024px;
+    max-width:980px;
+
+    @media (max-width:1024px) {
+        padding:0px 45px;
+    }
 `;
 
 export const Menu = styled.div`
@@ -92,6 +96,14 @@ export const Body = styled.div`
     align-items: flex-start;
     justify-content: flex-start;
     margin-top:80px;
+
+    @media (max-width:1024px) {
+        margin-top:120px;
+    }
+
+    @media (max-width:768px) {
+        margin-top:80px;
+    }
 `;
 
 export const Title = styled.h1`

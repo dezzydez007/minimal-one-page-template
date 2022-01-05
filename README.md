@@ -29,7 +29,7 @@ $ git clone https://github.com/iamdevmarcos/minimal-one-page-template.git
 2. Then go to the project's folder:
 
 ```sh
-cd macOS
+cd minimal-one-page-template
 ```
 
 3. Install all dependencies:

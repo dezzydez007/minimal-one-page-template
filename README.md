@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://furniture-iamdevmarcos.vercel.app/" target="_blank">
-        <img src="./public/assets/Project.png" width="550">
+        <img src="./public/assets/ProjectNew.png" width="550">
     </a>
 </p>
 
